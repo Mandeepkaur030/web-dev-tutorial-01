@@ -1,6 +1,6 @@
 # My First GitHub Page
 
-## My name is [Your Name] - [your Algoma email]
+## My name is Mandeep Kaur - mandeepkaur030@algomau.ca
 
 ### COSC2956 - Assignment 4
 
